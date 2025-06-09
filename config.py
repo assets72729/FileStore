@@ -42,7 +42,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "")
 
 #--------------------------------------------
 HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @KdramaTalkies\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/Kdramatalkies>Joseph</a></blockquote></b>"
-ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/kdramatalkies>Joseph</a>\n◈ Main Door : <a href=https://t.me/kdramatalkies>Kdrama Talkies</a>\n◈ Main Channel : <a href=https://t.me/+jKaACNssnHQ3NThl>Kdrama Talkies Encodes</a>\n◈ Updates Channel: <a href=https://t.me/Kdrama_Talkies_News_Updates>Kdrama Talkies News Updates</a>\n◈ Ongoing : <a href=https://t.me/+7nBy9-K0ZjY5Zjk1>Kdrama Talkies Ongoing</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Assets215>Joseph</a></blockquote></b>"
+ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/kdramatalkies>Joseph</a>\n◈ Main Door : <a href=https://t.me/kdramatalkies>Kdrama Talkies</a>\n◈ Main Channel : <a href=https://t.me/+jKaACNssnHQ3NThl>Kdrama Talkies Encodes</a>\n◈ Updates Channel: <a href=https://t.me/Kdrama_Talkies_News_Updates>Kdrama Talkies News</a>\n◈ Ongoing : <a href=https://t.me/+7nBy9-K0ZjY5Zjk1>Kdrama Talkies Ongoing</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Assets215>Joseph</a></blockquote></b>"
 #--------------------------------------------
 #--------------------------------------------
 START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {first}\n\n<blockquote> ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.</blockquote></b>")
